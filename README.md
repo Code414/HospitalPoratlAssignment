@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+Build a simple rails application that consists of receptionist portal which performs the following tasks,
+A single login page for both portals.
+Receptionists can register a new patient & perform CRUD operations.
